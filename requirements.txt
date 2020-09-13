@@ -1,0 +1,6 @@
+flask
+requests
+twilio
+# numpy
+# scipy
+# scikit-learn
