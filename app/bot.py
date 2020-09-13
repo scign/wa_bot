@@ -3,6 +3,8 @@
 # Developed using tutorial:
 # https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio
 
+# To update to send emails, see https://realpython.com/python-send-email/
+
 from twilio.twiml.messaging_response import MessagingResponse
 import requests
 
